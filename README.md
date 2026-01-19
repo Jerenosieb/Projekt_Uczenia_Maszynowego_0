@@ -1,3 +1,7 @@
+
+Projekt czerpie z tabeli googleplaystore.csv gdzie można pobrać ze strony: https://www.kaggle.com/datasets/lava18/google-play-store-apps?resource=download
+
+
 1. Cel i Zakres Projektu
 
 Głównym celem projektu było zbadanie, czy istnieje bezpośrednia korelacja między oceną aplikacji (Rating), a liczbą jej pobrań (Installs).
