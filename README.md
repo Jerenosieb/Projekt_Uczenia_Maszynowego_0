@@ -30,9 +30,9 @@ Wykorzystano Pipeline przetwarzający dane w locie:
 
 Porównano dwa algorytmy:
 
--Regresja Liniowa (Linear Regression): Model bazowy, szukający liniowych zależności.
+-Regresja Liniowa (Linear Regression)
 
--Drzewo Decyzyjne (Decision Tree Regressor): Model nieliniowy, zdolny do wychwycenia bardziej złożonych reguł decyzyjnych (ograniczony do głębokości 5, aby uniknąć przeuczenia).
+-Drzewo Decyzyjne (Decision Tree Regressor)
 
 4. Analiza Wyników
 
