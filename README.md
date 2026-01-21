@@ -44,9 +44,6 @@ Drzewo Decyzyjne: 0.8790
 
 Zwycięskim modelem okazało się Drzewo Decyzyjne. Oznacza to, że relacja między cechami aplikacji a liczbą pobrań nie jest w pełni liniowa i wymaga bardziej złożonych reguł decyzyjnych.
 
-Weryfikacja Hipotezy (Ocena vs Instalacje)
-
-Analiza wykazała, że sama ocena (Rating) ma mniejszy wpływ na liczbę instalacji niż oczekiwano. W modelu Drzewa Decyzyjnego najważniejszą cechą okazała się liczba recenzji (Reviews).
 
 Wniosek: Aplikacja z oceną 4.0, ale posiadająca 100 000 recenzji (co świadczy o jej "wirusowości"), osiąga zazwyczaj więcej pobrań niż niszowa aplikacja z idealną oceną 5.0, ale tylko 10 recenzjami. Ocena jest ważna dla jakości, ale to "szum medialny" (ilość recenzji) napędza instalacje.
 
