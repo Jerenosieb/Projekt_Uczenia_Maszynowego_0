@@ -4,9 +4,7 @@ Projekt czerpie z tabeli googleplaystore.csv gdzie można pobrać ze strony: htt
 
 1. Cel i Zakres Projektu
 
-Głównym celem projektu było zbadanie, czy istnieje bezpośrednia korelacja między oceną aplikacji (Rating), a liczbą jej pobrań (Installs).
-Postawiono hipotezę badawczą: "Wyższa średnia ocen użytkowników przekłada się na znacząco wyższą liczbę instalacji aplikacji".
-Dodatkowo celem technicznym było zbudowanie modelu Machine Learning (ML), który potrafi przewidzieć popularność aplikacji na podstawie jej cech (Cena, Rozmiar, Kategoria, Liczba Recenzji, Ocena).
+Głównym technicznym było zbudowanie modelu Machine Learning (ML), który potrafi przewidzieć popularność aplikacji na podstawie jej cech (Cena, Rozmiar, Kategoria, Liczba Recenzji, Ocena).
 
 2. Przygotowanie i Czyszczenie Danych (Data Preprocessing)
 
