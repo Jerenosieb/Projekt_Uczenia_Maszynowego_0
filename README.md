@@ -12,7 +12,7 @@ Zbiór danych (googleplaystore.csv) wymagał zaawansowanego czyszczenia przed pr
 
 -Konwersja Installs: Usunięto znaki + oraz , i przekonwertowano dane na liczby całkowite. Jest to nasza zmienna celu (target), którą przewidujemy.
 
--Obsługa Size: Skonwertowano wartości tekstowe (np. "19M", "500k") na liczby (bajty). Aplikacje "Varies with device" uzupełniono średnią, aby nie tracić danych.
+-Obsługa Size: Skonwertowano wartości tekstowe (np. "19M", "500k") na liczby (bajty).
 
 -Obsługa Price: Usunięto znak $ i zamieniono na typ float.
 
