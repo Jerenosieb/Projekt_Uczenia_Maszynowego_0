@@ -8,7 +8,7 @@ Głównym technicznym było zbudowanie modelu Machine Learning (ML), który potr
 
 2. Przygotowanie i Czyszczenie Danych (Data Preprocessing)
 
-Zbiór danych (googleplaystore.csv) wymagał zaawansowanego czyszczenia przed przystąpieniem do analizy. Wykonano następujące operacje:
+Zbiór danych (googleplaystore.csv) wymagał czyszczenia przed przystąpieniem do analizy. Wykonano następujące operacje:
 
 -Konwersja Installs: Usunięto znaki + oraz , i przekonwertowano dane na liczby całkowite. Jest to nasza zmienna celu (target), którą przewidujemy.
 
