@@ -22,7 +22,7 @@ Zbiór danych (googleplaystore.csv) wymagał czyszczenia przed przystąpieniem d
 
 Zastosowano podejście nadzorowanego uczenia maszynowego (Supervised Learning).
 Dane podzielono w stosunku 80% (treningowe) do 20% (testowe).
-Wykorzystano Pipeline przetwarzający dane w locie:
+Wykorzystano przetwarzający dane:
 
 -Cechy liczbowe (Rating, Reviews, Price) poddano standaryzacji (StandardScaler), aby różnice w rzędach wielkości nie zaburzyły modelu.
 
