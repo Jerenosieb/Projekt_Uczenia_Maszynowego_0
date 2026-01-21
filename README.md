@@ -16,7 +16,7 @@ Zbiór danych (googleplaystore.csv) wymagał zaawansowanego czyszczenia przed pr
 
 -Obsługa Price: Usunięto znak $ i zamieniono na typ float.
 
--Braki danych (NaN): Wiersze z brakującymi ocenami (Rating) zostały usunięte, ponieważ są kluczowe dla weryfikacji głównej hipotezy.
+-Braki danych (NaN)
 
 3. Metodologia i Modele
 
